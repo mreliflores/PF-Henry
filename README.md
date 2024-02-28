@@ -211,6 +211,11 @@ Se plantea el siguiente cronograma para cumplir con los objetivos del proyecto
   </ul>
 </div>
 
+## Producto Final
+
+-  Click <a href="https://youtu.be/wnFXm65zQrw?si=3AifCQG8F9F6elH1">aquí</a> para ver el promocional del producto final.
+-  Click <a href="https://foodies.streamlit.app/">aquí</a> para visitar la pagina web del producto final.
+
 ## Enlaces a datasets
 
 [<b>Florida:</b>](https://console.cloud.google.com/storage/browser/yelp-and-maps-data-processed/Maps/reviews-estados/review-Florida?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=true)
